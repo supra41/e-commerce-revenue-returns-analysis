@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Revenue Decline & Return Optimization Analysis
 
 ### E-Commerce Analytics Project | SQL • Python • Power BI
@@ -171,3 +172,6 @@ This project demonstrates the ability to:
 ## 🏷 Tags
 
 `Data Analyst` `SQL` `Python` `Power BI` `E-Commerce Analytics` `Business Intelligence`
+=======
+# e-commerce-revenue-returns-analysis
+>>>>>>> 9fd26e3e3695311d33914496050ba0104f6412c5
